@@ -1,6 +1,4 @@
 # ML-breast-cancer
-# Breast Cancer Classification
-
 This project classifies breast cancer tumors as malignant or benign using various machine learning algorithms.
 
 ## Dataset
